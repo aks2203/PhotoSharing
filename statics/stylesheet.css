@@ -1,0 +1,62 @@
+body {
+	background-color: #000028;
+	padding: 10px, 10px, 10px, 10px;
+	text-align: center;
+	font-family: times;
+	font-weight: lighter;
+	font-size: 24px;	
+}
+
+#grid img{
+    border: solid 2px white;
+    border-radius: 5px !important;
+    height: 100px !important;
+}
+}
+
+img {
+	border-radius: 15px;
+	border: solid 1px #ffffff;
+	background: none;
+}
+
+#small {
+    size: 100px 100px;
+}
+
+img:hover {
+	border-color: #6495ED;
+	
+}
+
+/* unvisited link */
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+span:hover {
+    color: #ffffff;
+    background-color: #333333;
+    border-radius: 5px;
+}
+
+/* selected link */
+a:active {
+    color: #ffffff;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-family: times;
+	font-weight: lighter;
+	font-size: 48px;
+	border-bottom: solid 1px #ffffff;
+}
